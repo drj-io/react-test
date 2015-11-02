@@ -1,0 +1,26 @@
+{
+  "name": "react-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drj-io/react-test.git"
+  },
+  "author": "David Jones <null@rackfx.com> (rackfx.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drj-io/react-test/issues"
+  },
+  "homepage": "https://github.com/drj-io/react-test",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
+}
